@@ -1,4 +1,4 @@
-## Todo list using Django
+## Chat-Room created using Django
 
 - clone the repository 
 - run the following command in your terminal
